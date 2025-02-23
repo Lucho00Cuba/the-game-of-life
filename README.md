@@ -2,7 +2,7 @@
 
 Conway's Game of Life in Go
 
-<img src="./assets/screenshot.png" alt="Screenshot of the Game of Life in Go" style="border-radius: 10px; margin: 20px; display: block; margin-left: auto; margin-right: auto;" width="500px">
+<img src="https://raw.githubusercontent.com/lucho00Cuba/the-game-of-life/refs/heads/main/assets/screenshot.png" alt="Screenshot of the Game of Life in Go" style="border-radius: 10px; margin: 20px; display: block; margin-left: auto; margin-right: auto;" width="500px">
 
 ## What is Conway's Game of Life?
 
